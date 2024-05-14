@@ -12,6 +12,10 @@ Table of contents
 
 <!--ts-->
    * [Concept Overview](#concept-overview)
+      * [1. Layer: Process Modules](#Process-Modules)
+      * [2. Layer: Manufacuring Execution](#Manufacuring-Execution)
+      * [3. Layer: Product Interpreter](#Product-Interpreter)
+      * [4. Layer: Product Designer](#Product-Designer)
    * [Used Technologies](#used-technologies)
       * [Raspberry Pi](#raspberry-pi)
       * [OPC UA](#opc-ua)
@@ -27,7 +31,19 @@ Table of contents
 
 Concept Overview
 ============
+<img width="476" alt="Ablaufplan_Lampe3_version_2" src="Schichtenmodel_UmsetzungIIoTProductBuilder.drawio.png">
 
+1. Layer: Process Modules
+-------------------------
+
+2. Layer: Manufacuring Execution
+--------------------------------
+
+3. Layer: Product Interpreter
+-----------------------------
+
+4. Layer: Product Designer
+--------------------------
 
 Used Technologies
 =================
@@ -47,7 +63,6 @@ Scientific Goals
 ================
 Laboratory Setup
 ================
-
 
 IoT-Kreativwerkstatt
 ====================
