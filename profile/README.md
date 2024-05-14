@@ -1,12 +1,53 @@
-## Hi there 👋
+#Project: IIoTProductBuilder
+
+Nice that you found your way to the github Oranization Smart Factory Lab  👋
+
+The github DHBW-Smart-Factory-Lab organization is the central point for documentation, project organization and at the same time the management of code and software development of all projects in and around the Smart Factory Lab.
+The Smart Factory Lab focuses on the technological orientation of the lab and its projects on cyber-physical matrix production systems.The IIoTProductBuilder initiative was created to provide a framework for ideas and topics for theses and projects. This lead project aims to offer a prototype full solution for individualized manufacturing, from machine integration to the adaptability of production systems. 
 
 <!--
 
-**Here are some ideas to get you started:**
+Table of contents
+=================
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<!--ts-->
+   * [Concept Overview](#concept-overview)
+   * [Used Technologies](#used-technologies)
+      * [Raspberry Pi](#raspberry-pi)
+      * [OPC UA](#opc-ua)
+      * [openModelica](#openModelica)
+      * [github](#github)
+   * [Development Environment](#development-environment)
+   * [Scientific Goals](#scientific-goals)
+   * [Laboratory Setup](#laboratory-setup)
+   * [IoT-Kreativwerkstatt](#IoT-Kreativwerkstatt)
+
+<!--te-->
+
+
+Concept Overview
+============
+
+
+Used Technologies
+=================
+Raspberry Pi
+------------
+OPC UA
+------
+openModelica
+------------
+github
+------
+
+
+Development Environment
+=======================
+Scientific Goals
+================
+Laboratory Setup
+================
+
+
+IoT-Kreativwerkstatt
+====================
