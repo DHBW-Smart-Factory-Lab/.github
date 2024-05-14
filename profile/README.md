@@ -15,15 +15,7 @@ Table of contents
       * [Layer 2 Manufacuring Execution](#layer-2-manufacuring-execution)
       * [Layer 3 Product Interpreter](#layer-3-product-interpreter)
       * [Layer 4 Product Designer](#layer-4-product-designer)
-   * [Used Technologies](#used-technologies)
-      * [Raspberry Pi](#raspberry-pi)
-      * [OPC UA](#opc-ua)
-      * [openModelica](#openmodelica)
-      * [github](#github)
-   * [Development Environment](#development-environment)
    * [Scientific Goals](#scientific-goals)
-   * [Laboratory Setup](#laboratory-setup)
-   * [IoT-Kreativwerkstatt](#iot-kreativwerkstatt)
 
 <!--te-->
 
@@ -33,35 +25,25 @@ Concept Overview
 <img  alt="overview product builder" src="Schichtenmodel_UmsetzungIIoTProductBuilder.drawio.png">
 
 Layer 1 Process Modules
--------------------------
+-----------------------
 
 Layer 2 Manufacuring Execution
---------------------------------
+------------------------------
 
 Layer 3 Product Interpreter
------------------------------
+---------------------------
 
 Layer 4 Product Designer
---------------------------
+-------------------------
 
-Used Technologies
-=================
-Raspberry Pi
-------------
-OPC UA
-------
-openModelica
-------------
-github
-------
-
-
-Development Environment
-=======================
 Scientific Goals
 ================
-Laboratory Setup
-================
+The main requirements for high productivity in production and resilience in the field of variance (supply chain, quantities, customer requirements) are defined by the boundary conditions of the market.  A high degree of standardization in system technology for machine integration and interoperability is also of great importance. Therefore, there is a need for application-oriented research in the design of tools for the planning and control (e.g. digital twin) of cyber-physical production matrix systems, their human/market integration and the standardization of hardware and software. 
+Other barriers in practice are the high level of complexity, limited experience in suitable areas of application and cost-effectiveness. There is no overall provider in all control-relevant design fields (as of 2022). Particular challenges exist in the creation and establishment of workable business models and the networking of content, organization and application technology. 
+Illustration of the tension between flexibility and productivity in production systems:
+<img  alt="overview product builder" src="2024-05-02 140833.png">
 
-IoT-Kreativwerkstatt
-====================
+Literature source: [Umsetzung von cyber-physischen Matrixproduktionssystemen (Expertise), 2022](https://www.acatech.de/publikation/umsetzung-von-cyber-physischen-matrixproduktionssystemen/)
+
+
+
