@@ -10,7 +10,7 @@ Table of contents
 =================
 
 <!--ts-->
-   * [Concept Overview](#concept-overview)
+   * [Conceptual Overview of the Development Goal](#conceptual-overview-of-the-development-goal)
       * [Layer 1 Process Modules](#layer-1-process-modules)
       * [Layer 2 Manufacuring Execution](#layer-2-manufacuring-execution)
       * [Layer 3 Product Interpreter](#layer-3-product-interpreter)
@@ -20,8 +20,8 @@ Table of contents
 <!--te-->
 
 
-Concept Overview
-============
+Conceptual Overview of the Development Goal
+===========================================
 <img  alt="overview product builder" src="Schichtenmodel_UmsetzungIIoTProductBuilder.drawio.png">
 
 Layer 1 Process Modules
