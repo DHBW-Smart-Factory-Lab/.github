@@ -11,37 +11,37 @@ Table of contents
 
 <!--ts-->
    * [Concept Overview](#concept-overview)
-      * [1. Layer: Process Modules](#Process-Modules)
-      * [2. Layer: Manufacuring Execution](#Manufacuring-Execution)
-      * [3. Layer: Product Interpreter](#Product-Interpreter)
-      * [4. Layer: Product Designer](#Product-Designer)
+      * [Layer 1 Process Modules](#layer-1-process-modules)
+      * [Layer 2 Manufacuring Execution](#layer-2-manufacuring-execution)
+      * [Layer 3 Product Interpreter](#layer-3-product-interpreter)
+      * [Layer 4 Product Designer](#layer-4-product-designer)
    * [Used Technologies](#used-technologies)
       * [Raspberry Pi](#raspberry-pi)
       * [OPC UA](#opc-ua)
-      * [openModelica](#openModelica)
+      * [openModelica](#openmodelica)
       * [github](#github)
    * [Development Environment](#development-environment)
    * [Scientific Goals](#scientific-goals)
    * [Laboratory Setup](#laboratory-setup)
-   * [IoT-Kreativwerkstatt](#IoT-Kreativwerkstatt)
+   * [IoT-Kreativwerkstatt](#iot-kreativwerkstatt)
 
 <!--te-->
 
 
 Concept Overview
 ============
-<img width="1000" alt="Ablaufplan_Lampe3_version_2" src="Schichtenmodel_UmsetzungIIoTProductBuilder.drawio.png">
+<img  alt="overview product builder" src="Schichtenmodel_UmsetzungIIoTProductBuilder.drawio.png">
 
-1. Layer: Process Modules
+Layer 1 Process Modules
 -------------------------
 
-2. Layer: Manufacuring Execution
+Layer 2 Manufacuring Execution
 --------------------------------
 
-3. Layer: Product Interpreter
+Layer 3 Product Interpreter
 -----------------------------
 
-4. Layer: Product Designer
+Layer 4 Product Designer
 --------------------------
 
 Used Technologies
