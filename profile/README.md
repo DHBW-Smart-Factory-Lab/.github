@@ -30,7 +30,7 @@ Table of contents
 
 Concept Overview
 ============
-<img width="476" alt="Ablaufplan_Lampe3_version_2" src="Schichtenmodel_UmsetzungIIoTProductBuilder.drawio.png">
+<img width="1000" alt="Ablaufplan_Lampe3_version_2" src="Schichtenmodel_UmsetzungIIoTProductBuilder.drawio.png">
 
 1. Layer: Process Modules
 -------------------------
