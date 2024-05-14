@@ -22,7 +22,7 @@ Table of contents
 
 Conceptual Overview of the Development Goal
 ===========================================
-<img  alt="overview product builder" src="Schichtenmodel_UmsetzungIIoTProductBuilder.drawio.png">
+<img  alt="overview product builder" src="/profile/Schichtenmodel_UmsetzungIIoTProductBuilder.drawio.png">
 
 Layer 1 Process Modules
 -----------------------
@@ -30,7 +30,7 @@ The resource modules and process modules are located at this level:<br>
 A process module is the smallest production resource that can be freely approached and independently planned from a logistical point of view and that carries out several process steps. The process modules, however, can be made up of resource modules. Resource modules perform value-adding, handling or other supporting tasks. From a logistical point of view, they cannot be planned individually.<br>
 In the IIoTProductBuilder project, a digital twin is to be added to the process modules. The digital twin should map the behavioral model of the real system and should have the same OPC UA interfaces in the network.
 
-<img  alt="overview product builder" src="2024-05-14 165008.png">
+<img  alt="overview product builder" src="/profile/2024-05-14 165008.png">
 
 As part of teaching at the DHBW, the final theses and project work from the fields of mechanical engineering, mechatronics, computer science and electrical engineering are integrated into this level of the process modules. Students are required to develop systems and models for various process modules and to create network-compatible systems. 
 
@@ -40,9 +40,9 @@ Source for image and definitions:<br>
 Layer 2 Manufacuring Execution
 ------------------------------
 
-<img  alt="overview product builder" src="2024-05-14 165008_2.png"> <br> 
+<img  alt="overview product builder" src="/profile/2024-05-14 165008_2.png"> <br> 
 
-<img  alt="overview product builder" src="2024-05-14 165500.png">
+<img  alt="overview product builder" src="/profile/2024-05-14 165500.png">
 
 Source of images: <br>
 [Umsetzung von cyber-physischen Matrixproduktionssystemen (Expertise), 2022](https://www.acatech.de/publikation/umsetzung-von-cyber-physischen-matrixproduktionssystemen/) <br> 
@@ -60,7 +60,7 @@ The main requirements for high productivity in production and resilience in the 
 Other barriers in practice are the high level of complexity, limited experience in suitable areas of application and cost-effectiveness. There is no overall provider in all control-relevant design fields (as of 2022). Particular challenges exist in the creation and establishment of workable business models and the networking of content, organization and application technology. 
 
 Illustration of the tension between flexibility and productivity in production systems:
-<img  alt="overview product builder" src="2024-05-02 140833.png">
+<img  alt="overview product builder" src="/profile/2024-05-02 140833.png">
 
 Literature source: <br>
 [Umsetzung von cyber-physischen Matrixproduktionssystemen (Expertise), 2022](https://www.acatech.de/publikation/umsetzung-von-cyber-physischen-matrixproduktionssystemen/) <br> 
