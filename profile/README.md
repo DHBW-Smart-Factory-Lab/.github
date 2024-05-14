@@ -2,8 +2,7 @@
 
 Nice that you found your way to the github Oranization Smart Factory Lab  👋
 
-The github DHBW-Smart-Factory-Lab organization is the central point for documentation, project organization and at the same time the management of code and software development of all projects in and around the Smart Factory Lab.
-The Smart Factory Lab focuses on the technological orientation of the lab and its projects on cyber-physical matrix production systems.The IIoTProductBuilder initiative was created to provide a framework for ideas and topics for theses and projects. This lead project aims to offer a prototype full solution for individualized manufacturing, from machine integration to the adaptability of production systems. 
+The github DHBW-Smart-Factory-Lab organization is the central point for the documentation, project organization and at the same time the management of code and software development of all projects in and around the Smart Factory Lab. The Smart Factory Lab focuses on the technological orientation of cyber-physical matrix production systems. The IIoTProductBuilder initiative was created to provide a framework for projects and theses. This "flagship" project also aims to offer a complete prototype solution for individualized manufacturing, from machine integration to the adaptability of production systems.
 
 <!--
 
