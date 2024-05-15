@@ -45,8 +45,8 @@ As part of the teaching at the DHBW, final and project work from the fields of m
 
 Layers 3 Product Interpreter and 4 Product Designer
 ---------------------------
-The Product Interpreter layer is located between the Web Content Management System or the "Product Content Management System" layer. This layer is the link between the human-readable product code and the production order for the factory. <br> 
-These two levels are given very low priority when it comes to implementation in the laboratory. Nevertheless, there is a great need for research here that goes beyond the scope of student project work. 
+The Product Interpreter layer is located between the Product Content Management System layer. This layers are the link between the human-readable product code and the production order for the factory. <br> 
+These two levels are given very low priority when it comes to implementation in the DHBW Smart Factory Lab Karlsruhe. Nevertheless, there is a great need for research here that goes beyond the scope of student project work. 
 
 Scientific Goals
 ================
