@@ -10,19 +10,17 @@ Table of contents
 =================
 
 <!--ts-->
-   * [Conceptual Overview of the Development Goal](#conceptual-overview-of-the-development-goal)
+   * [Conceptual Overview of the Development Goals](#conceptual-overview-of-the-development-goals)
       * [Layer 1 Process Modules](#layer-1-process-modules)
       * [Layer 2 Manufacuring Execution](#layer-2-manufacuring-execution)
-      * [Layer 3 Product Interpreter](#layer-3-product-interpreter)
-      * [Layer 4 Product Designer](#layer-4-product-designer)
+      * [Layers 3 Product Interpreter and 4 Product Designer](#layers-3-product-interpreter-and-4-product-designer)
    * [Scientific Goals](#scientific-goals)
    * [References](references)
-
 <!--te-->
 
 
-Conceptual Overview of the Development Goal
-===========================================
+Conceptual Overview of the Development Goals
+============================================
 <img  alt="overview product builder" src="/profile/Schichtenmodel_UmsetzungIIoTProductBuilder.drawio.png">
 
 Layer 1 Process Modules
@@ -45,11 +43,10 @@ To realize the main requirement, a Plug&Work mechanism with the four basic prope
 AutomationML (Automation Markup Language) is being discussed here as a modeling language. It is a neutral, XML-based data format for the storage and exchange of plant design data that is available as an open standard. The aim is to exchange data in a heterogeneous tool landscape.<br> 
 As part of the teaching at the DHBW, final and project work from the fields of mechanical engineering, mechatronics, computer science and electrical engineering is also offered at this level. The students are required to build real and simulated prototype cyber-physical matrix systems with existing process modules, to research the Plug&Work functionality and to develop solutions. 
 
-Layer 3 Product Interpreter
+Layers 3 Product Interpreter and 4 Product Designer
 ---------------------------
-
-Layer 4 Product Designer
--------------------------
+The Product Interpreter layer is located between the Web Content Management System or the "Product Content Management System" layer. This layer is the link between the human-readable product code and the production order for the factory. <br> 
+These two levels are given very low priority when it comes to implementation in the laboratory. Nevertheless, there is a great need for research here that goes beyond the scope of student project work. 
 
 Scientific Goals
 ================
