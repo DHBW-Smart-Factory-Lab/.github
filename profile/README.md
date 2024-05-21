@@ -46,7 +46,8 @@ As part of the teaching at the DHBW, final and project work from the fields of m
 Layers 3 Product Interpreter and 4 Product Designer
 ---------------------------
 The Product Interpreter layer is located between the Product Content Management System layer. This layers are the link between the human-readable product code and the production order for the factory. <br> 
-These two levels are given very low priority when it comes to implementation in the DHBW Smart Factory Lab Karlsruhe. Nevertheless, there is a great need for research here that goes beyond the scope of student project work. 
+These two levels are given very low priority when it comes to implementation in the DHBW Smart Factory Lab Karlsruhe. Nevertheless, there is a great need for research here that goes beyond the scope of student project work. <br>
+There is another overarching goal that the networking of smart factories aims to reach for order management. This is not dealt with as part of the DHBW Smart Factory Lab, but is included in the context of the work. For example, you can discover more here: [Smart Factory Web – ein Netzwerk intelligenter Fabriken](https://www.iosb.fraunhofer.de/de/projekte-produkte/smart-factory-web.html)
 
 Scientific Goals
 ================
